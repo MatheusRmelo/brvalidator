@@ -1,0 +1,18 @@
+{
+    "name": "matheusrmelo/brvalidator",
+    "description": "Package to validate if value is CPF or CNPJ",
+    "type": "library",
+    "license": "MIT",
+    "autoload": {
+        "psr-4": {
+            "Matheusrmelo\\Brvalidator\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Matheus Melo",
+            "email": "matheusroberttjmelo@gmail.com"
+        }
+    ],
+    "require": {}
+}
