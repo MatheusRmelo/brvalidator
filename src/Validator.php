@@ -1,6 +1,6 @@
 <?php 
 
-namespace Matheusrmelo\BrValidator;
+namespace Matheusrmelo;
 
 class Validator 
 {
